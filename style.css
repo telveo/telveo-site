@@ -58,3 +58,43 @@ footer {
   color: #8a7a70;
   font-size: 14px;
 }
+
+.page {
+  background: #ffffff;
+  border: 1px solid #eaded4;
+  border-radius: 18px;
+  box-shadow: 0 8px 24px rgba(47, 36, 29, 0.06);
+  margin-top: 32px;
+  margin-bottom: 32px;
+}
+
+.page h1 {
+  font-size: 34px;
+  margin-bottom: 8px;
+}
+
+.page h2 {
+  margin-top: 32px;
+  font-size: 22px;
+}
+
+.page p,
+.page li {
+  color: #4a3b32;
+}
+
+.back-link {
+  display: inline-block;
+  margin-bottom: 24px;
+  color: #7b4b2a;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.back-link:hover {
+  text-decoration: underline;
+}
+
+ul {
+  padding-left: 22px;
+}
